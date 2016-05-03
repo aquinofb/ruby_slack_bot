@@ -1,2 +1,2 @@
-# ruby_slack_bot
+# Ruby Slack Bot
 Slack bot with Sinatra
